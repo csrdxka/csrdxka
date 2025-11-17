@@ -1,23 +1,11 @@
 <!-- 你的 GitHub 主页 README -->
 <h1 align="center">✨ Hi, I'm Kaitō ✨</h1>
 
-<p align="center">
-  <em>🚀 Hello World</em>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-- HPC engineer passionate about performance, precision, and progress.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,ai,fastapi,git,linux,bash&theme=light" />
-</p>
+- I am a perfectionist.
 
 ---
 
