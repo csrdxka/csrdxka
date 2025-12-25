@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- I am a perfectionist.
+- Nothing
 
 ---
 
